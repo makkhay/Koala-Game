@@ -2,6 +2,7 @@
 
 ---
 ***This is a Koala game.***
+
 *The arrow keys will simultaneously move all of the bears on a level, except bears whose paths
 are blocked by a wall or another bear. Each level will be a hazardous maze that is com- pleted
 by getting all of the koalas to an exit. However, if a koala touches a dangerous hazard on the
