@@ -27,5 +27,5 @@ Player One controls are:
 # Screenshot 
 
 
-![alt text](https://github.com/SFSU-CSC-413/assignment-4-gsharma/blob/master/MyHW4/tankGame/game/game.png
+![alt text](https://github.com/makkhay/Tank-Game-/blob/master/tankGame/game/game.png
 )
