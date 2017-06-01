@@ -16,10 +16,10 @@ nonfatal hazards
 
 # Controls are listed below
 Player Two controls are: 
-* A: Rotate left
-* D: Rotate right
-* W: Move forward
-* S: Move in reverse 
+* Left Arrow: Rotate left
+* Rght Arrow: Rotate right
+* Up Arrow: Move forward
+* Down Arrow: Move in reverse 
 
 # Screenshot 
 
