@@ -25,5 +25,5 @@ Player Two controls are:
 # Screenshot 
 
 
-![alt text](https://github.com/makkhay/Tank-Game-/blob/master/tankGame/game/game.png
+![alt text](https://github.com/makkhay/Koala-Game/blob/master/Screen%20Shot%202017-06-01%20at%2011.11.42%20AM.png
 )
