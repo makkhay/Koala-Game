@@ -1,7 +1,6 @@
 # Koala - Game
-
 ---
-***This is a Koala game.***
+***This is a Koala game.**
 
 *The arrow keys will simultaneously move all of the bears on a level, except bears whose paths
 are blocked by a wall or another bear. Each level will be a hazardous maze that is com- pleted
